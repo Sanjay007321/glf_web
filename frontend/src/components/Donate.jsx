@@ -6,7 +6,7 @@ return(
 <div className="hover:shadow-md duration-900 ease-in-out shadow-cyan-300 flex m-5 text-cyan-200 items-center md:flex-row md:justify-around justify-center border flex-col bg-gray-800 bg-opacity-0 border-green-300 rounded-4xl p-5 gap-5">
 <div className="flex flex-col  items-center justify-center gap-4">
 <p className="text-xl">Scan and Donate</p>
-<img src="src/assets/WhatsApp Image 2025-08-30 at 11.38.56 PM.jpeg" className="h-40 w-40 rounded-xl border border-white border-5"> 
+<img src="WhatsApp Image 2025-08-30 at 11.38.56 PM.jpeg" className="h-40 w-40 rounded-xl border border-white border-5"> 
 </img>
 <p className="text-md">UPI Id: glf7092606176@pytes</p>
 </div>
