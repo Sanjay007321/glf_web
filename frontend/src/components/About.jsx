@@ -16,7 +16,7 @@ this organization with the aim of fulfilling the basic needs of the disabled
 by providing them with education and employment opportunities.
 </p>
 <img
-src="assets/WhatsApp Image 2025-08-09 at 2.06.15 PM (2).jpeg"
+src="WhatsApp Image 2025-08-09 at 2.06.15 PM (2).jpeg"
 className="w-45 h-45 object-cover rounded-4xl md:h-55 md:w-55 opacity-90 brightness-90 contrast-100 border-5 border-amber-200"
 alt="Founder"
 />
