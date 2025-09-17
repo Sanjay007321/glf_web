@@ -7,7 +7,7 @@ export default function Joinus() {
   const [dob, setDob] = useState("");
   const [place, setPlace] = useState("");
 
-  const apiUrl = "http://localhost:3000/";
+  const apiUrl = "https://glf-web.onrender.com/";
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!name || !email || !mobile || !dob || !place) {
