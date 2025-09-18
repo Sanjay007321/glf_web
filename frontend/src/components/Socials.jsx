@@ -12,7 +12,7 @@ return(
 </a>
 <a href="https://youtube.com/@deivanaia-k4e?si=Ntucv1XB5Wfr-rrd">
 <div className="flex flex-col items-center justify-center">
-<img src="src/assets/youtube-logo-png-46016.png" className="h-20 p-0"/>
+<img src="youtube-logo-png-46016.png" className="h-20 p-0"/>
 <h1>YouTube</h1>
 </div>
 </a>
