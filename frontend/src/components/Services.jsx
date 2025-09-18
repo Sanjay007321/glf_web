@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
 export default function Services() {
 const slides = [
-"src/assets/WhatsApp Image 2025-08-09 at 2.06.02 PM (1).jpeg",
-"src/assets/WhatsApp Image 2025-08-09 at 2.05.59 PM.jpeg",
-"src/assets/WhatsApp Image 2025-08-09 at 3.47.16 PM.jpeg",
-"src/assets/WhatsApp Image 2025-08-09 at 2.06.14 PM.jpeg",
-"src/assets/WhatsApp Image 2025-08-09 at 2.06.14 PM (2).jpeg",
+"WhatsApp Image 2025-08-09 at 2.06.02 PM (1).jpeg",
+"WhatsApp Image 2025-08-09 at 2.05.59 PM.jpeg",
+"WhatsApp Image 2025-08-09 at 3.47.16 PM.jpeg",
+"WhatsApp Image 2025-08-09 at 2.06.14 PM.jpeg",
+"WhatsApp Image 2025-08-09 at 2.06.14 PM (2).jpeg",
 ];
 const [current, setCurrent] = useState(0);
 useEffect(() => {
