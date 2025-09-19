@@ -17,8 +17,8 @@ setMenu(!menu);
 return(
 <div className='md:text-lg' id='home'>
 <video src="WhatsApp Video 2025-08-09 at 7.27.32 PM.mp4" autoPlay loop muted></video>
-<div className=' flex relative text-nowrap md:h-[150px] justify-between gap-3 md:justify-center p-2 md:flex-auto bg-gray-800'>
-<img src='WhatsApp_Image_2025-08-09_at_2.05.48_PM-removebg-preview.png' className='animate-pulse duration-1000 h-20 m-4'></img>
+<div className=' flex relative text-nowrap md:h-[150px] justify-between gap-2 md:justify-center p-2 md:flex-auto bg-gray-800'>
+<img src='WhatsApp_Image_2025-08-09_at_2.05.48_PM-removebg-preview.png' className='animate-pulse duration-1000 h-15 m-4'></img>
 <h1 className='mt-10 text-xl md:text-4xl animate-pulse bg-gradient-to-r from-yellow-200 via-amber-300 to-yellow-400 bg-clip-text text-transparent'>Good Life Foundation</h1>
 <img src='WhatsApp_Image_2025-08-09_at_2.05.48_PM-removebg-preview.png' className='animate-pulse md:h-20 md:m-4 h-0'></img>
 { 
