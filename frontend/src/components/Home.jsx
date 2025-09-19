@@ -23,12 +23,12 @@ return(
 <img src='WhatsApp_Image_2025-08-09_at_2.05.48_PM-removebg-preview.png' className='animate-pulse md:h-20 md:m-4 h-0'></img>
 { 
 !menu ?
-<svg onClick={togglemenu} className='transition-all animate-pulse duration-2000 ease-in-out h-20 w-10 ml-auto md:hidden m-9 fill-cyan-950' viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg onClick={togglemenu} className='transition-all animate-pulse duration-2000 ease-in-out h-10 w-10 ml-auto md:hidden m-5 fill-cyan-950' viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <path d="M4 6H20M4 12H20M4 18H20" stroke="cyan" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <title>Menu</title>
 </svg> 
 :
-<svg onClick={togglemenu} className='transition-all animate-pulse duration-2000 ease-in-out h-20 w-10 ml-auto md:hidden m-9 fill-cyan-950' viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg onClick={togglemenu} className='transition-all animate-pulse duration-2000 ease-in-out h-10 w-10 ml-auto md:hidden m-5 fill-cyan-950' viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Cancel</title>
 <g id="Page-1" stroke="none" fill="" fill-rule="">
 <g id="work-case" fill="cyan" transform="translate(91.520000, 91.520000)"><polygon id="Close" points="328.96 30.2933333 298.666667 1.42108547e-14 164.48 134.4 30.2933333 1.42108547e-14 1.42108547e-14 30.2933333 134.4 164.48 1.42108547e-14 298.666667 30.2933333 328.96 164.48 194.56 298.666667 328.96 328.96 298.666667 194.56 164.48">
