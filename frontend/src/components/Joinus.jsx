@@ -10,11 +10,14 @@ export default function Joinus() {
 
   const apiUrl = "https://glf-web.onrender.com/";
   const handleSubmit = async (e) => {
-    setIsDisabled(!isDisabled);
+    
     e.preventDefault();
     if (!name || !email || !mobile || !dob || !place) {
       alert("Please fill all fields");
       return;
+    }
+    else{
+      setIsDisabled(!isDisabled);
     }
     try {
       const res = await fetch(apiUrl, {
