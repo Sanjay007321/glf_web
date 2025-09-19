@@ -79,6 +79,9 @@ fill=""
 <p>➤ Providing self-employment to unsupported women and handmaids.</p>
 <p>➤ Implementing the nature conservation and tree planting project extensively throughout Tamil Nadu.</p>
 <p>➤ Initiating the work of establishing a 'rehabilitation center' for the unsupported people through our organization.</p>
+<p>➤ Providing legal advice to the destitute people through our organization.</p>
+<p>➤ Conducting "One Day Camp" for government school students through our organization.</p>
+<p>➤ If the projects that our organization members can run are suitable, Implementation.</p>
 </div>
 </div>
 </div>
