@@ -24,7 +24,7 @@ export default function Joinus() {
       });
       if (res.ok) {
         alert("Details Submitted, Thank You!!!");
-        setName(""); setEmail(""); setMobile(""); setDob(""); setPlace("");
+        setName(""); setEmail(""); setMobile(""); setDob(""); setPlace(""); setIsDisabled(!isDisabled);
       } else {
         alert("Submission failed. Please try again.");
       }
