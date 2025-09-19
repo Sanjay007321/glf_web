@@ -50,7 +50,7 @@ fill=""
 <img
 src={slides[current]}
 alt="service"
-className="h-60 w-60 md:h-90 md:w-90 rounded-lg border-cyan-100 border-5 transition-all duration-500 ease-in-out"
+className="h-40 w-40 md:h-90 md:w-90 rounded-lg border-cyan-100 border-5 transition-all duration-500 ease-in-out"
 />
 
 {/* Next Button */}
