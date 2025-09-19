@@ -11,7 +11,7 @@ return(
 </div>
 <div className="flex m-3 rounded-4xl p-3 items-center gap-4">
 <p className=" flex-1 text-wrap p-1">
-The founder, G.Vigneswaran(B.com), is a disabled person himself and has created
+The founder, G.Vigneshwaran(B.A), is a disabled person himself and has created
 this organization with the aim of fulfilling the basic needs of the disabled
 by providing them with education and employment opportunities.
 </p>
