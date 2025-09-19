@@ -12,7 +12,7 @@ return(
         <h1>Address: NO.26, Thiruneelakandar Street, Arcot, Ranipet, Tamilnadu</h1>
        
        </div>
-       <iframe className="h-50 w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31102.10043395301!2d79.22948184895193!3d12.987033253588379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad49a9b8569c89%3A0xbb1678013a84a7ae!2sThiruneelakandar%20St%2C%20Kugaiyanallore%2C%20Tamil%20Nadu%20632515!5e0!3m2!1sen!2sin!4v1757148287607!5m2!1sen!2sin" loading="lazy"></iframe>
+       <iframe className="md:h-50 h-30 w-80 md:w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31102.10043395301!2d79.22948184895193!3d12.987033253588379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad49a9b8569c89%3A0xbb1678013a84a7ae!2sThiruneelakandar%20St%2C%20Kugaiyanallore%2C%20Tamil%20Nadu%20632515!5e0!3m2!1sen!2sin!4v1757148287607!5m2!1sen!2sin" loading="lazy"></iframe>
 </div>
 </div>
 </div>
