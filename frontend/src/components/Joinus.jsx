@@ -42,7 +42,6 @@ return (
       <h1 className="text-cyan-200">Fill the below form</h1>
       <div className="flex m-5 text-cyan-200 items-center hover:shadow-md duration-900 ease-in-out shadow-cyan-300 justify-center border flex-col bg-gray-800 bg-opacity-0 border-green-300 rounded-4xl p-5 gap-5">
         <form
-          onSubmit={handleSubmit}
           className="flex flex-col gap-4 w-full max-w-md shadow-lg rounded-lg"
         >
           <label>
@@ -106,7 +105,7 @@ return (
           </label>
 
           <button
-            type="submit"
+            type="submit" onClick={handleSubmit}
             className="w-full py-2 rounded-full mt-4 hover:shadow-sm hover:animate-pulse ease-in-out duration-900 shadow-cyan-300 bg-slate-700 text-cyan-200 cursor-pointer"
           >
             Submit
