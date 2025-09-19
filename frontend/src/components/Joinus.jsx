@@ -6,9 +6,11 @@ export default function Joinus() {
   const [mobile, setMobile] = useState("");
   const [dob, setDob] = useState("");
   const [place, setPlace] = useState("");
+  const [isDisabled, setIsDisabled] = useState(false);
 
   const apiUrl = "https://glf-web.onrender.com/";
   const handleSubmit = async (e) => {
+    setIsDisabled(!isDisabled);
     e.preventDefault();
     if (!name || !email || !mobile || !dob || !place) {
       alert("Please fill all fields");
@@ -105,7 +107,7 @@ return (
           </label>
 
           <button
-            type="submit" onClick={handleSubmit}
+            type="submit" onClick={handleSubmit} disabled={isDisabled}
             className="w-full py-2 rounded-full mt-4 hover:shadow-sm hover:animate-pulse ease-in-out duration-900 shadow-cyan-300 bg-slate-700 text-cyan-200 cursor-pointer"
           >
             Submit
